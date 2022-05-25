@@ -34,13 +34,4 @@ Optionally, if you want to include our TF.js visualization library you can do so
 ```
 However feel free to remove if you are not using this for visualizing training etc. [More details here](https://github.com/tensorflow/tfjs/tree/master/tfjs-vis).
 
-### ← style.css
-
-Nothing to see here. Just styles to make the demo look prettier. You can use or ignore these as you please.
-
-### ← script.js
-
-This simply grabs a reference to a paragraph in the DOM and then prints out the TensorFlow.js version number to it once loaded.
-
-
 -------------------
